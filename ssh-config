@@ -1,0 +1,8 @@
+host github.com
+	Hostname github.com
+	IdentityFile ~/.ssh/github
+	User git
+host gitlab.eece.maine.edu
+	Hostname gitlab.eece.maine.edu
+	IdentityFile ~/.ssh/gitlab
+	User git
