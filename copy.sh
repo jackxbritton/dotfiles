@@ -9,4 +9,5 @@ cp ssh-config ~/.ssh/config
 sudo cp xorg.conf /etc/X11/
 
 echo 'export EDITOR=vim' >> ~/.bashrc
+echo 'autospawn = no' >> ~/.config/pulse/client.conf
 
